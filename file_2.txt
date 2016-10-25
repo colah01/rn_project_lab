@@ -1,3 +1,4 @@
 Fourth line of text
+Here's some extra text
 Fifth line of text
 Sixth line of text
